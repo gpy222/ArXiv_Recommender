@@ -3,7 +3,7 @@
 # ArXiv Recommendation System
 *The ArXiv database contains millions of papers which are free to access. The sheer scope of the database means that most knowledge is likely underutilized: unless a paper/topic is specifically searched for it is unlikely to be found. This means that, while scholars and researchers are able to pull specific papers with ease, it is much more difficult to adequately explore this vast space of knowledge. By fitting a recommender system to the ArXiv database, we give scholars the tools to explore and discover new knowledge.*
 
-*Becuase there is as of yet no data on different readers' ratings of articles, this recommendation system will be based solely on the content of the article abstracts*
+*Because there is as of yet no data on different readers' ratings of articles, this recommendation system will be based solely on the content of the article abstracts*
 
 ## 1. Data
 The data was obtained from the following sources:
